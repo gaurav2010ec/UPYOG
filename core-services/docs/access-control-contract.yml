@@ -9,8 +9,8 @@ info:
   title: Access Control APIs
   description: All APIs available from Access Control services.
   contact:
-    name: eGov
-    email: info@egovernments.org
+    name: NIUA
+    email: cdg-contact@niua.org
 
 # Describe your paths here
 paths:
